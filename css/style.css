@@ -1,0 +1,36 @@
+/* All common css start */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* All common css end */
+#img_filters{
+    padding: 100px 0;
+    background: teal;
+}
+h4{
+    color: white;
+    text-align: center;
+}
+#img_filters1{
+    padding: 100px 0;
+    background: hotpink;
+}
+#img_filters2{
+    background: url(../images/3.jpg);
+    background-repeat: no-repeat;
+    block-size: cover;
+    background-position: center;
+    
+}
+.overly{
+    background: rgba(0, 0, 0, 0.7);
+    padding: 200px 0;
+}
+.icon{
+    text-align: center;
+}
+.icon i{
+    font-size: 100px;
+}
+
